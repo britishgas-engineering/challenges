@@ -9,7 +9,7 @@ The following is what the application should do (trust us it is a lot simpler th
 2. Calculate and display gas and electricity units used from the input meter readings (Assume previous meter read was 11000. So gas units used would be `gas meter reading - 11000`)
 3. Calculate and display bill amount in pounds for gas and electricity separately (Multiply units by price per unit. First 100 units are charged at 10p per unit and the rest are charged at 20p per unit)
 
-## 🧮 Sample calculation below for gas
+## 🎯 Sample calculation below for gas
 
 Gas meter reading entered => 11400
 
@@ -35,7 +35,7 @@ Please commit your code to a public github repository before you arrive for the 
 
 ## 💥 The extra mile (bonus points!)
 
-😍Show us what you can do with a real API. On top of the current challenge:
+Show us what you can do with a real API. On top of the current challenge:
 
 1. Do a GET on the `https://shine-energy.netlify.com/.netlify/functions/meter-readings` to get the user's previous gas and electricity meter readings instead of hard coding this as 11000.
 2. Only allow the user to enter a number above the user's previous meter readings.
