@@ -1,11 +1,12 @@
-Overview
+
+# Overview
 
 As the owner (and sole developer!) of Sparkle Energy Inc, you are going to build a simple bill calculator web application. 
 
 The following is what the application should do (trust us it is a lot simpler than it sounds),
 
-1. Collect meter readings from the user for their gas and electricity (2 simple text boxes? maybe there is a better way you can think of)
-2. Calculate and display gas and electricity units used from the input meter readings (Assume last meter read was 11000. So, gas units used would be gas meter reading - 11000)
+1. Collect meter readings from the user for their gas and electricity (2 simple text boxes? maybe there is a better way you can think of :thinking:)
+2. Calculate and display gas and electricity units used from the input meter readings (Assume last meter read was 11000. So gas units used would be `gas meter reading - 11000`)
 3. Calculate and display bill amount in pounds for gas and electricity separately (Multiply units by price per unit. First 100 units are charged at 10p per unit and the rest are charged at 20p per unit)
 
 Sample calculation below for gas,
