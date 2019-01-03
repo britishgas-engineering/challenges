@@ -9,7 +9,7 @@ The following is what the application should do (trust us it is a lot simpler th
 2. Calculate and display gas and electricity units used from the input meter readings (Assume last meter read was 11000. So gas units used would be `gas meter reading - 11000`)
 3. Calculate and display bill amount in pounds for gas and electricity separately (Multiply units by price per unit. First 100 units are charged at 10p per unit and the rest are charged at 20p per unit)
 
-## Sample calculation below for gas,
+## Sample calculation below for gas
 
 Gas meter reading entered => 11400
 
@@ -17,11 +17,11 @@ Gas units used => 11400 - 11000 => 400
 
 Gas bill amount => (100 * 10) + (300 * 20) => 70000p (£70)
 
-## What tools you can use,
+## What tools you can use?
 
 Any JS/CSS framework or library you love or even vanilla JS/CSS implementations!
 
-## What we would like you to think about,
+## What we would like you to think about
 
 1. Feel free to be creative with the user interface of the application, while keeping in mind that users like things to be easy to understand and use. What's the thinking behind your UI design?
 2. How will the UI work on small screen devices like your mobile phone?
