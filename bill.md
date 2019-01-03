@@ -37,6 +37,6 @@ Please upload your code to a public github repository before you arrive for the 
 
 😍Show us what you can do with a real API. On top of the current challenge:
 
-1. Do a GET on the `https://shine-energy.netlify.com/.netlify/functions/meter-readings` to get the customers gas and electricity meter readings.
-2. Only allow the customer to enter a number above the customers meter readings.
+1. Do a GET on the `https://shine-energy.netlify.com/.netlify/functions/meter-readings` to get the user's last gas and electricity meter readings.
+2. Only allow the user to enter a number above the user's last meter readings.
 
