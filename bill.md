@@ -26,7 +26,7 @@ Any JS/CSS framework or library you love or even vanilla JS/CSS implementations!
 1. Feel free to be creative with the user interface of the application, while keeping in mind that users like things to be easy to understand and use. What's the thinking behind your UI design?
 2. How will the UI work on small screen devices like your mobile phone?
 3. How did you organize the code for the application and why did you do it that way?
-4. What edge cases did you identify that caused your application to fail?
+4. What edge cases caused your calculation code/application to fail?
 5. Can you write simple automated tests for the code?
 6. How did you validate the inputs from the user (trying to subtract a text string from a number is recipe for disaster!)?
 7. What can be improved?
