@@ -1,7 +1,7 @@
 
 # Overview
 
-As the owner (and sole developer!) of Sparkle Energy Inc, you are going to build a simple bill calculator web application. 
+As the owner (and sole developer!) of Shine Energy Inc, you are going to build a simple bill calculator web application. 
 
 The following is what the application should do (trust us it is a lot simpler than it sounds),
 
