@@ -18,13 +18,15 @@ What tools you can use,
 
 Any JS/CSS framework or library you love or even vanilla JS/CSS implementations!
 
-Some things to help your thought process,
+What we would like you to think about,
 
 1. Feel free to be creative with the user interface of the application, while keeping in mind that users like things to be easy to understand and use. What's the thinking behind your UI design?
-2. How does the UI work on small screen devices like your mobile phone?
-3. How did you organize the code for the calculations and why?
+2. How will the UI work on small screen devices like your mobile phone?
+3. How did you organize the code for the application and why did you do it that way?
 4. What edge cases can cause your calculation code to fail and how did you protect against it (if you think a simple piece of multiplication code can't fail..think again!)?
-5. How did you test the code that you've written? 
-6. Can you write simple automated tests for the code?
-7. How did you validate the inputs from the user?
+5. Can you write simple automated tests for the code?
+6. How did you validate the inputs from the user (trying to subtract a text string from a number is recipe for disaster!)?
+7. What can be improved?
+
+Please upload your code to a public github repository before you arrive for the assessment day. You will get a chance to blow us away with a demo of your application on the day!
 
