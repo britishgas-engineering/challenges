@@ -33,3 +33,10 @@ Any JS/CSS framework or library you love or even vanilla JS/CSS implementations!
 
 Please upload your code to a public github repository before you arrive for the assessment day. You will get a chance to blow us away with a demo of your application on the day!
 
+## The extra mile
+
+😍Show us what you can do with a real API. On top of the current challenge:
+
+1. Do a GET on the `https://shine-energy.netlify.com/.netlify/functions/meter-readings` to get the customers gas and electricity meter readings.
+2. Only allow the customer to enter a number above the customers meter readings.
+
