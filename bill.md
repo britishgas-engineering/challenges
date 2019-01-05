@@ -15,7 +15,7 @@ Gas meter reading entered => 11400
 
 Gas units used => 11400 - 11000 => 400
 
-Gas bill amount => (100 * 10) + (300 * 20) => 7000p (£7)
+Gas bill amount => (100 * 10) + (300 * 20) => 7000p (£70)
 
 ## 🛠 What tools you can use?
 
